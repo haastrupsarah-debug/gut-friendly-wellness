@@ -179,8 +179,6 @@ header, nav, .container, footer {
   <span class="food">🍎</span>
   <span class="food">🥕</span>
 </div>
-
-
 <header>
   <h1>Gut-Friendly Wellness</h1>
   <button onclick="toggleTheme()">🌗</button>
